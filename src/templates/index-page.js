@@ -24,6 +24,7 @@ export const IndexPageTemplate = ({
         })`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
+        height: '300px',
       }}
     >
       <div
@@ -53,9 +54,9 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
-            color: 'white',
+              '#a7e0c0 0.5rem 0px 0px, #a7e0c0 -0.5rem 0px 0px',
+            backgroundColor: '#a7e0c0',
+            color: '#0d110e',
             lineHeight: '1',
             padding: '0.25em',
           }}
