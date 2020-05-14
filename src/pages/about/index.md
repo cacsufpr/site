@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Movimento Estudantil
+title: Movimento Estudantil de Ciências Sociais
 ---
 ## Título 1
 
