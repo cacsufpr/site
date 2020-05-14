@@ -1,14 +1,11 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: Situação financeira
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Como mantemos independentes as atividades do CACS? Autofinanciamento!
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Nos últimos anos, encontramos alternativas para angariar recursos que nos
+  possibilitam independência de posicionamento.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -99,3 +96,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
